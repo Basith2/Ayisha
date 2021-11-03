@@ -4,14 +4,14 @@
 <div align="center">
   <img border-radius: 15px src="https://github.com/Basith2/Ayisha/blob/master/media/gif/Ayisha.gif" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Ayisha" src="https://img.shields.io/badge/Basith-Ayisha?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ayisha" src="https://img.shields.io/badge/Ayisha v1-Ayisha?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Basith2"><img title="Author" src="https://img.shields.io/badge/Author|Basi-Basith/Ayisha?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Basith2">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Basith2">Basith</a> to make it public
     <br>
        | © |
         Reserved |
